@@ -1,2 +1,3 @@
-# ros-moveit
-This repository demonstrates the usage of MoveIt in ROS!
+# ROS MoveIt
+
+Let's learn some MoveIt in ROS :D!
